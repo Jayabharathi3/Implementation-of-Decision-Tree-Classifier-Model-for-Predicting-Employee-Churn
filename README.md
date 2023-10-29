@@ -24,15 +24,13 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: JAYABHARATHI S
 RegisterNumber:  212222100013
 */
+
 import pandas as pd
 df=pd.read_csv("/content/Employee.csv")
 
 df.head()
-
 df.info()
-
 df.isnull().sum()
-
 df["left"].value_counts()
 
 from sklearn.preprocessing import LabelEncoder
