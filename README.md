@@ -72,6 +72,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/Jayabharathi3/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120367796/d6ac42b4-da1e-4ad7-a0bd-eb388b649414)
 
 ## Assignment of x and y values:
+![image](https://github.com/Jayabharathi3/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120367796/2074591e-0d3e-4edb-9b3b-bcd39b17db4a)
+
 ![image](https://github.com/Jayabharathi3/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120367796/9627743d-71b8-47f0-be87-6518bbd431a8)
 
 ## Converting string literals to numerical values using label encoder:
